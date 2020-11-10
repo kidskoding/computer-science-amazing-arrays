@@ -1,4 +1,4 @@
-public class Konidala_AmazingArrays
+public class amazingarrays
 {
 	public static void main(String[] args) {
 		int[] data = {5, 7, 3, 6, 2, 1, 9, 8, 4};
